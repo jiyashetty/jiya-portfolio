@@ -1,3 +1,4 @@
+// Experience Component - Updated April 2026
 import { motion } from 'framer-motion';
 import { useInView } from 'framer-motion';
 import { useRef } from 'react';
