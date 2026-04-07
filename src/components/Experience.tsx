@@ -35,6 +35,19 @@ const Experience = () => {
       ],
       technologies: ['Python', 'LLMs', 'API Integration', 'Automation', 'Enterprise Solutions', 'Data Extraction'],
     },
+    {
+      role: 'AI Engineer Intern',
+      company: 'YCX London',
+      period: 'June 2025 to September 2025',
+      description: 'Designed and implemented multi-agent AI systems to automate company research and data extraction workflows.',
+      achievements: [
+        'Designed and implemented multi-agent AI systems to automate company research and data extraction workflows',
+        'Built scalable pipelines using LangChain, Pydantic, and OpenAI-compatible APIs for structured JSON output generation',
+        'Automated data validation and web scraping processes, improving research accuracy and efficiency',
+        'Integrated LLMs with business intelligence tools to support lead generation and market analysis',
+      ],
+      technologies: ['LangChain', 'Pydantic', 'OpenAI API', 'Multi-Agent Systems', 'Web Scraping', 'Business Intelligence'],
+    },
   ];
 
   const containerVariants = {
